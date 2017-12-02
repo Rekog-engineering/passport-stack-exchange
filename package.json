@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "Stack Exchange authentication strategy for Passport and Node.js.",
   "main": "./lib",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mooyoul/passport-stack-exchange"
+    "url": "https://github.com/acruxray/passport-stack-exchange.git"
   },
   "keywords": [
     "passport",
@@ -22,15 +19,14 @@
     "stackexchange"
   ],
   "author": {
-    "name": "Moo Yeol, Lee (Prescott)",
-    "email": "mooyoul@gmail.com",
-    "url": "https://github.com/mooyoul"
+    "name": "Nazar Mozol",
+    "email": "work.nazar.mozol@gmail.com",
+    "url": "https://github.com/acruxray"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mooyoul/passport-stack-exchange/issues"
+    "url": "https://github.com/acruxray/passport-stack-exchange/issues"
   },
-  "homepage": "https://github.com/mooyoul/passport-stack-exchange",
   "dependencies": {
     "passport-oauth": "^1.0.0",
     "request": "^2.58.0",
